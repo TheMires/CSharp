@@ -1,0 +1,16 @@
+C:\Users\User\Documents\auladeclasses\obj\Debug\net5.0\auladeclasses.csproj.AssemblyReference.cache
+C:\Users\User\Documents\auladeclasses\obj\Debug\net5.0\auladeclasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\auladeclasses\obj\Debug\net5.0\auladeclasses.AssemblyInfoInputs.cache
+C:\Users\User\Documents\auladeclasses\obj\Debug\net5.0\auladeclasses.AssemblyInfo.cs
+C:\Users\User\Documents\auladeclasses\obj\Debug\net5.0\auladeclasses.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\auladeclasses\bin\Debug\net5.0\auladeclasses.exe
+C:\Users\User\Documents\auladeclasses\bin\Debug\net5.0\auladeclasses.deps.json
+C:\Users\User\Documents\auladeclasses\bin\Debug\net5.0\auladeclasses.runtimeconfig.json
+C:\Users\User\Documents\auladeclasses\bin\Debug\net5.0\auladeclasses.runtimeconfig.dev.json
+C:\Users\User\Documents\auladeclasses\bin\Debug\net5.0\auladeclasses.dll
+C:\Users\User\Documents\auladeclasses\bin\Debug\net5.0\auladeclasses.pdb
+C:\Users\User\Documents\auladeclasses\obj\Debug\net5.0\auladeclasses.dll
+C:\Users\User\Documents\auladeclasses\obj\Debug\net5.0\refint\auladeclasses.dll
+C:\Users\User\Documents\auladeclasses\obj\Debug\net5.0\auladeclasses.pdb
+C:\Users\User\Documents\auladeclasses\obj\Debug\net5.0\auladeclasses.genruntimeconfig.cache
+C:\Users\User\Documents\auladeclasses\obj\Debug\net5.0\ref\auladeclasses.dll
